@@ -1,0 +1,47 @@
+﻿
+@{ ViewData["Title"] = "Users"; }
+@model UsersProfileApp.ViewModels.UsersViewModel
+
+<h1>Users</h1>
+@using (Html.BeginForm("Create", "Users", FormMethod.Post))
+{
+
+@Html.LabelFor(model => model.FirstName) @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } }) @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                @Html.ValidationMessageFor(model => model.FirstName)
+
+                                @Html.LabelFor(model => model.LastName) @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } }) @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                                                <input type="submit" value="Submit" />
+
+                                                                <div class="panel-body">
+                                                                    <table id="assets-data-table" class="table table-striped table-bordered" style="width:100%">
+                                                                        <thead>
+                                                                            <tr>
+                                                                                <th>First name</th>
+                                                                                <th>Last name</th>
+                                                                            </tr>
+                                                                        </thead>
+                                                                        <tbody>
+                                                                            @foreach (var user in ViewBag.Users)
+                                                                            {
+                                                                                <tr>
+                                                                                    <td>@user.FirstName</td>
+                                                                                    <td>@user.LastName</td>
+                                                                                </tr>
+
+                                                                            }
+                                                                        </tbody>
+                                                                    </table>
+                                                                </div>}
+
+
+@if (ViewBag.Message != null)
+{< script type = "text/javascript" >
+
+    window.onload = function() {
+    alert("@ViewBag.Message");
+    };
+    </ script >}
+
+
+
+

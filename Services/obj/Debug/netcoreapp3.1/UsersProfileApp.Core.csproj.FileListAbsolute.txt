@@ -1,0 +1,12 @@
+C:\Kannan\Interview\UsersProfileApp\Services\bin\Debug\netcoreapp3.1\UsersProfileApp.Core.deps.json
+C:\Kannan\Interview\UsersProfileApp\Services\bin\Debug\netcoreapp3.1\UsersProfileApp.Core.dll
+C:\Kannan\Interview\UsersProfileApp\Services\bin\Debug\netcoreapp3.1\UsersProfileApp.Core.pdb
+C:\Kannan\Interview\UsersProfileApp\Services\bin\Debug\netcoreapp3.1\UsersProfileApp.DataStore.dll
+C:\Kannan\Interview\UsersProfileApp\Services\bin\Debug\netcoreapp3.1\UsersProfileApp.DataStore.pdb
+C:\Kannan\Interview\UsersProfileApp\Services\obj\Debug\netcoreapp3.1\UsersProfileApp.Core.csproj.AssemblyReference.cache
+C:\Kannan\Interview\UsersProfileApp\Services\obj\Debug\netcoreapp3.1\UsersProfileApp.Core.AssemblyInfoInputs.cache
+C:\Kannan\Interview\UsersProfileApp\Services\obj\Debug\netcoreapp3.1\UsersProfileApp.Core.AssemblyInfo.cs
+C:\Kannan\Interview\UsersProfileApp\Services\obj\Debug\netcoreapp3.1\UsersProfileApp.Core.csproj.CoreCompileInputs.cache
+C:\Kannan\Interview\UsersProfileApp\Services\obj\Debug\netcoreapp3.1\UsersProfileApp.Core.csproj.CopyComplete
+C:\Kannan\Interview\UsersProfileApp\Services\obj\Debug\netcoreapp3.1\UsersProfileApp.Core.dll
+C:\Kannan\Interview\UsersProfileApp\Services\obj\Debug\netcoreapp3.1\UsersProfileApp.Core.pdb

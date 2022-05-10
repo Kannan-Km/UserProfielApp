@@ -1,0 +1,9 @@
+C:\Kannan\Interview\UsersProfileApp\DataStore\bin\Debug\netcoreapp3.1\UsersProfileApp.DataStore.deps.json
+C:\Kannan\Interview\UsersProfileApp\DataStore\bin\Debug\netcoreapp3.1\UsersProfileApp.DataStore.dll
+C:\Kannan\Interview\UsersProfileApp\DataStore\bin\Debug\netcoreapp3.1\UsersProfileApp.DataStore.pdb
+C:\Kannan\Interview\UsersProfileApp\DataStore\obj\Debug\netcoreapp3.1\UsersProfileApp.DataStore.csproj.AssemblyReference.cache
+C:\Kannan\Interview\UsersProfileApp\DataStore\obj\Debug\netcoreapp3.1\UsersProfileApp.DataStore.AssemblyInfoInputs.cache
+C:\Kannan\Interview\UsersProfileApp\DataStore\obj\Debug\netcoreapp3.1\UsersProfileApp.DataStore.AssemblyInfo.cs
+C:\Kannan\Interview\UsersProfileApp\DataStore\obj\Debug\netcoreapp3.1\UsersProfileApp.DataStore.csproj.CoreCompileInputs.cache
+C:\Kannan\Interview\UsersProfileApp\DataStore\obj\Debug\netcoreapp3.1\UsersProfileApp.DataStore.dll
+C:\Kannan\Interview\UsersProfileApp\DataStore\obj\Debug\netcoreapp3.1\UsersProfileApp.DataStore.pdb
